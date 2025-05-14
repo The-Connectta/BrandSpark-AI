@@ -1,2 +1,2 @@
-# BizSpark-AI
-BizSpark AI for Branding and Content
+# BrandSpark-AI
+BrandSpark AI for Branding and Content
